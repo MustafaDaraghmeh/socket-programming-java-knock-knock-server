@@ -6,9 +6,9 @@ A practical, fully-commented educational example of TCP socket programming in Ja
 ┌─────────────┐                  ┌─────────────┐
 │   CLIENT    │                  │   SERVER    │
 │             │                  │             │
-│ "Who's      │  ───TCP─────>    │ "Knock!     │
+│ "Who's      │  ────TCP─────>   │ "Knock!     │
 │  there?"    │                  │ Knock!"     │
-│             │  <────TCP─────    │             │
+│             │ <────TCP─────    │             │
 └─────────────┘                  └─────────────┘
 ```
 
